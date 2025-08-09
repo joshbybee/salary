@@ -1,5 +1,5 @@
 # 👋 Before reading salary.txt
-# Read & understand the license, then agree to it.
+# Read & understand the LICENSE, then agree to it.
 --Thanks!
  
 Josh
