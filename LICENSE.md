@@ -74,4 +74,4 @@ If you become aware of any retaliation related to this salary disclosure:
 
 ---
 
-*This license was created to protect the author's federally guaranteed right to discuss wages and working conditions. The salary information disclosed under this license is protected speech under the National Labor Relations Act and related federal labor laws.*
+[*This license was created to protect the author's federally guaranteed right to discuss wages and working conditions. The salary information disclosed under this license is protected speech under the National Labor Relations Act and related federal labor laws.*](https://claude.ai/public/artifacts/e42b4981-fc22-4903-aa3a-be963ba80fb4)
