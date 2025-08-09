@@ -9,7 +9,7 @@
 
 ---
 
-**Copyright (c) [Year] [Your Name]**
+**Copyright (c) 2025-9999 Josh**
 
 *License created with assistance from Claude Sonnet 4 on August 9, 2025*
 
