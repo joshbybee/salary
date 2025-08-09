@@ -1,21 +1,64 @@
-MIT License
+# Salary Disclosure License (Modified MIT)
 
-Copyright (c) 2025 joshbybee
+## 📋 Quick Summary
+- 💰 **Salary discussions are federally protected** under the National Labor Relations Act
+- ⚖️ **Retaliation is illegal** - employers cannot fire, demote, or punish you for sharing salary info
+- 🛡️ **Multiple agencies protect you** - NLRB, EEOC, and DOL enforce these rights
+- 📞 **Report violations** - Contact info provided below for any retaliation
+- 🎯 **Educational purpose** - This promotes workplace equity and transparency
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+**Copyright (c) 2025+**
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+*License created with assistance from Claude Sonnet 4 on August 9, 2025*
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+## Standard MIT License Conditions
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Salary Information Disclosure Notice
+
+This repository contains salary information disclosed by the author. **This disclosure is made pursuant to federally protected rights under the National Labor Relations Act (NLRA), 29 U.S.C. §§ 151-169.**
+
+### Legal Protections Notice
+
+**IMPORTANT**: The discussion and disclosure of wage and salary information is protected activity under federal law. Specifically:
+
+1. **National Labor Relations Act Protection**: Under Section 7 of the NLRA, employees at private-sector workplaces have the fundamental right to discuss wages and working conditions without fear of retaliation. This protection applies whether the workplace is unionized or non-unionized.
+
+2. **Anti-Retaliation Provisions**: It is unlawful under federal law for any employer to discharge, discipline, demote, reduce hours, transfer, or take any other adverse employment action against an employee because they have discussed salary information or engaged in other protected concerted activity.
+
+3. **EEOC Protections**: Under Equal Employment Opportunity Commission guidelines, discussing salary information to uncover potentially discriminatory wages is protected activity under federal anti-discrimination laws.
+
+4. **Additional State Protections**: Many states have enacted additional wage transparency laws that further protect employees' rights to discuss compensation.
+
+### Retaliation Warning
+
+**BY ACCESSING THE SALARY INFORMATION IN THIS REPOSITORY, YOU ACKNOWLEDGE THAT:**
+
+- Any retaliation against the author for disclosing this salary information would constitute a violation of federal labor law under the NLRA (29 U.S.C. § 158(a)(1) and § 158(a)(4))
+- Such retaliation may also violate state wage transparency laws and federal anti-discrimination statutes
+- Retaliation can include but is not limited to: termination, demotion, reduction in hours, denial of promotion, exclusion from meetings, assignment of less favorable tasks, or any other adverse employment action
+- Violations may be reported to the National Labor Relations Board (1-844-762-6572) and may result in legal remedies including reinstatement, back pay, and other damages
+
+### Repository Purpose Statement
+
+*"Salary transparency is the least important reason I'm employed at my current employer, but it contributes to workplace equity and informed career decisions."*
+
+The salary progression data contained herein is shared to promote wage transparency and to exercise federally protected rights to discuss compensation. This information is provided for educational and transparency purposes.
+
+### Contact Information for Legal Violations
+
+If you become aware of any retaliation related to this salary disclosure:
+- **National Labor Relations Board**: 1-844-762-6572 or file online at nlrb.gov
+- **Equal Employment Opportunity Commission**: 1-800-669-4000 or eeoc.gov
+- **U.S. Department of Labor Wage and Hour Division**: 1-866-487-9243
+
+---
+
+*This license was created to protect the author's federally guaranteed right to discuss wages and working conditions. The salary information disclosed under this license is protected speech under the National Labor Relations Act and related federal labor laws.*
