@@ -1,0 +1,2 @@
+Gross,	FIT taxable wages,	Taxes,	Deductions,	Net pay
+current	$5,467.02,	$4,703.52,	$1,263.48,	$869.52,	$3,334.02
